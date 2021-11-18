@@ -1,8 +1,8 @@
-### Olá! Me chamo Jaisson, sou desenvolvedor 👋
+### Hello! My name is Jaisson, I'm developer 💻
 
-- 🔭 Trabalho atualmente como Front-end
-- 🌱 Estudando React
-- 👨‍🎓 Cursando Ciência da Computação
+- 🔭 I'm currently a front-end developer
+- 🌱 Studying React
+- 👨‍🎓 Computer Science academic
 
 
 <div align="center">
