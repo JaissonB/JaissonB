@@ -4,11 +4,14 @@
 - 🌱 Studying <img height="18em" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif">
 - 👨‍🎓 Computer Science academic
 
-
 <div align="center">
   <a href="https://github.com/JaissonB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaissonB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaissonB&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  </br>
+<div align="center">
+  Stacks
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Jay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
