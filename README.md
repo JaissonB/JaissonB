@@ -3,7 +3,7 @@
 - 🔭 I'm currently a front-end developer
 - 🌱 Studying Python and Blockchain <img height="18em" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif">
 - 👨‍🎓 Computer Science academic
-- :man_technologist: Tech Enthusiast
+- 👨‍💻 Tech Enthusiast
 
 <div align="center">
   <a href="https://github.com/JaissonB">
