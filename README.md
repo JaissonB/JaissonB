@@ -1,7 +1,7 @@
 ### Hello! My name is Jaisson, I'm developer 💻
 
 - 🔭 I'm currently a front-end developer
-- 🌱 Studying Python and Blockchain <img height="18em" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif">
+- 🌱 Studying Python, Blockchain and React.js <img height="18em" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif">
 - 👨‍🎓 Computer Science academic
 - 👨‍💻 Tech Enthusiast
 
@@ -31,8 +31,8 @@
   ##
 
 <div align="center">
-  <a href="https://www.facebook.com/jaisson.bassanesi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jaissonb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!--<a href="https://www.facebook.com/jaisson.bassanesi" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/jaisson-bassanesi-0537781aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/jaissonb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jaissonjb14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
