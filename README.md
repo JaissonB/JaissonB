@@ -1,5 +1,11 @@
 ### Hello! My name is Jaisson, I'm developer 💻
 
+<div style="display: inline_block">
+<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif" height="80" />
+<img src="https://img.buzzfeed.com/buzzfeed-static/static/2017-12/7/13/asset/buzzfeed-prod-fastlane-01/anigif_sub-buzz-31301-1512671166-3.gif" height="80" />
+<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" height="80" />
+</div>
+
 - 🔭 I'm currently a front-end developer
 - 🌱 Studying Python, Blockchain and React.js <img height="18em" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif">
 - 👨‍🎓 Computer Science academic
