@@ -6,8 +6,7 @@
 <img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" height="80" />
 </div>
 
-- 🔭 I'm currently a Full Cycle developer
-<!-- 🌱 Studying Python, Blockchain and React.js <img height="18em" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif"> -->
+- 🔭 I'm currently a Full Cycle developer <!-- 🌱 Studying Python, Blockchain and React.js <img height="18em" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/YouTube_loading_symbol_3_%28transparent%29.gif"> -->
 - 👨‍🎓 Computer Science
 - 👨‍💻 Tech Enthusiast
 
